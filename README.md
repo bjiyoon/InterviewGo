@@ -13,6 +13,10 @@
 - MongoDB
 - CloudType
 
+### 🔷 Responsibilities 🔷
+- Project Planning
+- Frontend Development
+
 ### 🔷 Key Features 🔷
 ![image](https://github.com/user-attachments/assets/4b66348a-8bc7-4553-a861-bf77852bfd81)
 ![image](https://github.com/user-attachments/assets/9963c407-a65e-492c-85bc-507ec3c5649d)
