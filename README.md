@@ -1,9 +1,11 @@
 # **🎙️ InterviewGo**
 ### 🔷 AI-based Mock Interview Application 🔷
 ![image](https://github.com/user-attachments/assets/df911c9d-643b-4865-b7aa-7cffd935928a)
+* * *
 
 ### 🔷 Information Architecture 🔷
 ![image](https://github.com/user-attachments/assets/89058df7-f269-43eb-a365-3e37afec69dd)
+* * *
 
 ### 🔷 Development Tools 🔷
 - React native
@@ -12,10 +14,12 @@
 - Python
 - MongoDB
 - CloudType
+* * *
 
 ### 🔷 Responsibilities 🔷
 - Project Planning
 - Frontend Development
+* * *
 
 ### 🔷 Key Features 🔷
 ![image](https://github.com/user-attachments/assets/4b66348a-8bc7-4553-a861-bf77852bfd81)
