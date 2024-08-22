@@ -4,7 +4,7 @@
 * * *
 
 ### 🔷 Information Architecture 🔷
-![image](https://github.com/user-attachments/assets/d798e88b-428d-484e-991d-05ab315c69ce)
+![image](https://github.com/user-attachments/assets/0ddb2b25-cda1-4381-8f29-4ffe59ed2e19)
 
 * * *
 
